@@ -1,0 +1,14 @@
+D:\Shell\bin\Debug\net6.0\Shell.exe
+D:\Shell\bin\Debug\net6.0\Shell.deps.json
+D:\Shell\bin\Debug\net6.0\Shell.runtimeconfig.json
+D:\Shell\bin\Debug\net6.0\Shell.dll
+D:\Shell\bin\Debug\net6.0\Shell.pdb
+D:\Shell\obj\Debug\net6.0\Shell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shell\obj\Debug\net6.0\Shell.AssemblyInfoInputs.cache
+D:\Shell\obj\Debug\net6.0\Shell.AssemblyInfo.cs
+D:\Shell\obj\Debug\net6.0\Shell.csproj.CoreCompileInputs.cache
+D:\Shell\obj\Debug\net6.0\Shell.dll
+D:\Shell\obj\Debug\net6.0\refint\Shell.dll
+D:\Shell\obj\Debug\net6.0\Shell.pdb
+D:\Shell\obj\Debug\net6.0\Shell.genruntimeconfig.cache
+D:\Shell\obj\Debug\net6.0\ref\Shell.dll
