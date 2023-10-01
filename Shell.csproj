@@ -4,6 +4,12 @@
   <!-- Save This File And Execute The Above Command -->
   <!-- Author: Casey Smith, Twitter: @subTee -->
   <!-- License: BSD 3-Clause -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  
   <Target Name="Hello">
     <ClassExample />
   </Target>
